@@ -1,0 +1,28 @@
+_repo: The-Wedge-of-Gold_16861
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Goodwin, C. C. (Charles Carroll)
+    alias: Goodwin, Charles Carroll
+    birthdate: 1832
+    deathdate: 1917
+    gutenberg_agent_id: '6978'
+    url: http://www.gutenberg.org/2009/agents/6978
+description: ''
+gutenberg_issued: '2005-10-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16861'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Gold mines and mining -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Western stories'
+title: The Wedge of Gold
+url: http://www.gutenberg.org/ebooks/16861
